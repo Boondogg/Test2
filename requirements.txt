@@ -1,8 +1,3 @@
-Flask
-pandas
-numpy
-pandastable
-tkinter
-ttk
-filedialog
-asksaveasfilename
+Flask==2.3.2
+pandas==2.1.1
+Werkzeug==2.3.7
